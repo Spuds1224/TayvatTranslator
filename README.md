@@ -9,24 +9,24 @@ Uses the OpenCV library to create a png with the translated text
 Clone the project  
 
 ~~~bash  
-  git clone https://github.com/Spuds1224/TayvatTranslator
+git clone https://github.com/Spuds1224/TayvatTranslator
 ~~~
 
 Go to the project directory  
 
 ~~~bash  
-  cd TeyvatTranslator
+cd TeyvatTranslator
 ~~~
 
 Install dependencies  
 
 ~~~bash  
-  pip install -r requirements.txt
+pip install -r requirements.txt
 ~~~
 
 Run the script
 ~~~bash
-  python TayvatTranslator/main.py
+python TayvatTranslator/main.py
 ~~~
 
 ## License  
