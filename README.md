@@ -1,5 +1,5 @@
  
-# Tayvat Translator
+# Teyvat Translator
 Translates English to the Teyvat alphabet from Genshin Impact.
 
 Uses the OpenCV library to create a png with the translated text
@@ -9,7 +9,7 @@ Uses the OpenCV library to create a png with the translated text
 Clone the project  
 
 ~~~bash  
-git clone https://github.com/Spuds1224/TayvatTranslator
+git clone https://github.com/Spuds1224/TeyvatTranslator
 ~~~
 
 Go to the project directory  
@@ -26,7 +26,7 @@ pip install -r requirements.txt
 
 Run the script
 ~~~bash
-python TayvatTranslator/main.py
+python TeyvatTranslator/main.py
 ~~~
 
 ## License  
